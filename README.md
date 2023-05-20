@@ -23,7 +23,7 @@ Run the main application file:
 1. Open IntelliJ IDEA and select "Open" from the welcome screen or go to "File" -> "Open" to open the Battleship project directory.
 2. Locate the MainProgram class in the project structure.
 3. Right-click on the MainProgram class and select "Run MainProgram" from the context menu.
-3. The application will start running, and you will be prompted to select the desired gameplay mode (single player or two players).
+3. The application will start running and the leader board will appear. A new game can be started by pressing "New Game"
 4. Follow the on-screen instructions to proceed with the game.
 5. Place your ships on the grid by entering the coordinates and orientation.
 6. Take turns attacking your opponent's grid by entering the coordinates of your target.
