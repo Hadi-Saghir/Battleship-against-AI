@@ -11,16 +11,16 @@ AI Generalization: The AI component is designed to be easily generalized, enabli
 Installation Instructions:
 
 Clone the repository to your local machine using the following command:
-bash
-Copy code
+
+```bash
 git clone https://github.com/your-username/Battleship.git
+```
 Navigate to the project directory:
-bash
-Copy code
+
+```bash
 cd Battleship
-Install the necessary dependencies:
-Copy code
-pip install -r requirements.txt
+```
+
 Usage Instructions:
 
 Run the main application file:
